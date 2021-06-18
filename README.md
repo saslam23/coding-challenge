@@ -6,6 +6,9 @@
 
 
 
+FILTERED FOR BREWERY TYPE "MICRO"
+<img width="1680" alt="Screen Shot 2021-06-18 at 6 47 29 PM" src="https://user-images.githubusercontent.com/52229822/122624433-ccbaca80-d065-11eb-992b-788dbc271948.png">
+
 
 # Getting Started with Create React App
 
